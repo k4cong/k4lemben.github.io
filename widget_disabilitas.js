@@ -12,7 +12,7 @@ var bg_color_icon = "";
 
 var conditional = ["ppid-vnew.animemusic.us", "lapor.spbe.sangkuriang.co.id", "lapor.go.id", "latihan.lapor.go.id"];
 if (conditional.includes(base_url_website)) {
-    bg_color_icon = "#d0021b";
+    bg_color_icon = "rgb(124, 26, 26)";
 
 } else {
     bg_color_icon = "rgb(151, 16, 16)";
